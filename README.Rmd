@@ -1,4 +1,4 @@
-# This package and the analysis provided below contains the data and analysis performed in the manuscript titled:
+# This R package and the analysis provided below contains the data and analysis performed in the manuscript titled:
 # "Shotgun mass spectrometry-based lipid profiling identifies and distinguishes between chronic inflammatory diseases"
 
 # install R packages
