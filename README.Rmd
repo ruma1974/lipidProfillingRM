@@ -9,6 +9,7 @@ install.packages("limma")
 install.packages("ggpubr")
 install.packages("caret")
 install.packages("sampling")
+install.packages("kernlab")
 library(remotes)
 
 remotes::install_github("ruma1974/lipidProfillingRM@master")
@@ -22,6 +23,7 @@ library(limma)
 library(ggpubr)
 library(caret)
 library(sampling)
+library(kernlab)
 
 # start
 
