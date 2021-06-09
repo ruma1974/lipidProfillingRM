@@ -1,13 +1,13 @@
 Package: lipidProfillingRM
-Title: What the Package Does (One Line, Title Case)
+Title: Add extra plotting functions for machine learning
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Rune",
+           family = "Matthiesen",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "rune.matthiesen@nms.unl.pt",
+           comment = c(ORCID = "0000-0002-6353-2616"))
+Description: Add extra plotting functions for machine learning.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
